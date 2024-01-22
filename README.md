@@ -4,7 +4,7 @@ Welcome to my respository, which I created due to Blockchain lessons. Here you c
 ### 📦 Firstly, we get Web3 Package, File Package.json [(source)](https://github.com/rahat-limit/blockchain-assignment2/blob/main/package.json)
 ### 🕸️ For this assignment, I use INFURA with Sepolia TestNet, which was connected to MetaMask.
 <p align="center">
-  <img src = "https://github.com/rahat-limit/blockchain-assignment2/blob/main/assets/meta_acc.png" width=600>
+  <img src = "https://github.com/rahat-limit/blockchain-assignment2/blob/main/assets/meta_acc.png" height=300>
 </p>
 
 ### ℹ️ Assignment 1 was deployed, by compiling and getting ABI with bytecode (stored in Demo.json). File Deploy.js [(source)](https://github.com/rahat-limit/blockchain-assignment2/blob/main/deploy.js).
